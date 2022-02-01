@@ -42,7 +42,7 @@ create new product:
 ### UPDATE
 
 Update product without creating a new component
-<img src=src/assets/Img/Update.jpeg">
+<img src="src/assets/Img/Update.jpeg">
 
 ### READ / DELETE
 
