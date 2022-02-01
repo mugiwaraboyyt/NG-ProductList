@@ -38,7 +38,7 @@ i stored products as object
 <!-- 
 create new product:
 <img src="./src/assets/Img/AddProduct.jpeg" alt="CREATE a new Product Form"> -->
-![Create new product Form](./src/assets/Img/AddProduct.jpeg)
+![Create new product Form](/src/assets/Img/AddProduct.jpeg)
 
 ### UPDATE
 
