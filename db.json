@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Amir Sargent",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 500,
+      "comment": "Eum cumque inventore",
+      "date": "1985-11-12T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Gregory Miles",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 800,
+      "comment": "Et aliqua Exercitat",
+      "date": "2008-08-24T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Maryam Waller",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 897,
+      "comment": "Sint rerum eius fugi",
+      "date": "2016-02-23T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Nasim Crane",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 803,
+      "comment": "Consequatur Sit et",
+      "date": "1983-05-05T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Burton Dean",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 173,
+      "comment": "Dignissimos nostrud ",
+      "date": "1977-03-05T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Cassidy Obrien",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 890,
+      "comment": "Nulla numquam aliqui",
+      "date": "1990-12-13T23:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

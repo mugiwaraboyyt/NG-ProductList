@@ -1,0 +1,24 @@
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+table{
+  width: 100%;
+}
+.mat-form-field-filed{
+  font-size: .875rem;
+  width: 100%;
+}
+
+// @use '@angular/material' as mat;
+
+// $my-custom-level: mat.define-typography-level(
+//   $font-family: Roboto,
+//   $font-weight: 400,
+//   $font-size: 1rem,
+//   $line-height: 1,
+//   $letter-spacing: normal,
+// );
