@@ -30,21 +30,21 @@ Link : <https://material.angular.io/>
 For the backend ,used a Node module: JSON-Server who generates Fake server only for developpement
 link : <https://www.npmjs.com/package/json-server#getting-started>
 i stored products as object
-<img src="./src/assets/Img/JSON-Server.jpeg" alt="JSON-server Prodcuts saved as Objects">
+<img src="src/assets/Img/JSON-Server.jpeg" alt="JSON-server Prodcuts saved as Objects">
 
 ## CRUD
 
 ### CREATE
 
 create new product:
-<img src="./src/assets/Img/AddProduct.jpeg" alt="CREATE a new Product Form">
+<img src="src/assets/Img/AddProduct.jpeg" alt="CREATE a new Product Form">
 
 ### UPDATE
 
 Update product without creating a new component
-<img src="./src/assets/Img/Update.jpeg">
+<img src=src/assets/Img/Update.jpeg">
 
 ### READ / DELETE
 
 READ all products from Server:
-<img src="./src/assets/Img/List.jpeg" alt="list of all products">
+<img src="src/assets/Img/List.jpeg" alt="list of all products">
