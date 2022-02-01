@@ -35,16 +35,17 @@ i stored products as object
 ## CRUD
 
 ### CREATE
-
+<!-- 
 create new product:
-<img src="src/assets/Img/AddProduct.jpeg" alt="CREATE a new Product Form">
+<img src="./src/assets/Img/AddProduct.jpeg" alt="CREATE a new Product Form"> -->
+![Create new product Form](src/assets/Img/AddProduct.jpeg)
 
 ### UPDATE
 
 Update product without creating a new component
-<img src="src/assets/Img/Update.jpeg">
+<img src="./src/assets/Img/Update.jpeg">
 
 ### READ / DELETE
 
 READ all products from Server:
-<img src="src/assets/Img/List.jpeg" alt="list of all products">
+<img src="./src/assets/Img/List.jpeg" alt="list of all products">
